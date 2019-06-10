@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1365</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>1023</ColumnWidth1>
+        <ColumnWidth2>273</ColumnWidth2>
+        <ColumnWidth3>68</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>24</Column0><Column1>28</Column1><Column2>1</Column2><Column3>0</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory/>
+        
+        
+      <ShowCodeCoverage>1</ShowCodeCoverage><ShowInstrProfiling>1</ShowInstrProfiling></Disassembly>
+    <Register/></Static>
+    <Windows>
+      
+      
+      
+    <Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-19260-28214</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-18737-28224</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd4><Wnd5>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-30008-28217</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Project1</ExpandedNode><ExpandedNode>Project1/CMSIS</ExpandedNode><ExpandedNode>Project1/Output</ExpandedNode><ExpandedNode>Project1/Output/Project1.out</ExpandedNode><ExpandedNode>Project1/StdPeriph</ExpandedNode><ExpandedNode>Project1/StdPeriph/src</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd5><Wnd6>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-7989-28220</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd6><Wnd7><Tabs><Tab><Identity>TabID-25483-13035</Identity><TabName>Register</TabName><Factory>Register</Factory><Session><REG1>0</REG1><REG2>0</REG2><Group>0</Group><States>3</States><State0>APSR</State0><State1>EPSR</State1><State2>IPSR</State2></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd7></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>50</YPos2><SelStart2>2017</SelStart2><SelEnd2>2017</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\StdPeriph\src\stm32f4xx_gpio.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>556</YPos2><SelStart2>24398</SelStart2><SelEnd2>24398</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\StdPeriph\inc\stm32f4xx_rcc.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>517</YPos2><SelStart2>6183</SelStart2><SelEnd2>6183</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\lab2\StdPeriph\inc\stm32f4xx_rcc.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>394</YPos2><SelStart2>19525</SelStart2><SelEnd2>19525</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\lab2\StdPeriph\inc\misc.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>1900</SelStart2><SelEnd2>1900</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\StdPeriph\inc\stm32f4xx_gpio.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>50</YPos2><SelStart2>2527</SelStart2><SelEnd2>2527</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\StdPeriph\inc\stm32f4xx_tim.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>40</YPos2><SelStart2>2025</SelStart2><SelEnd2>2026</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\StdPeriph\src\stm32f4xx_tim.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>2534</YPos2><SelStart2>92281</SelStart2><SelEnd2>92281</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\StdPeriph\src\stm32f4xx_rcc.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>1559</YPos2><SelStart2>68623</SelStart2><SelEnd2>68623</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\CMSIS\Device\ST\STM32F4xx\Source\Templates\system_stm32f4xx.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>166</YPos2><SelStart2>9329</SelStart2><SelEnd2>9332</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\StdPeriph\inc\misc.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>99</YPos2><SelStart2>4731</SelStart2><SelEnd2>4731</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\StdPeriph\src\stm32f4xx_adc.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>572</YPos2><SelStart2>24721</SelStart2><SelEnd2>24721</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\CMSIS\Include\core_cm4.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>1451</YPos2><SelStart2>97758</SelStart2><SelEnd2>97758</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\StdPeriph\src\stm32f4xx_exti.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>180</YPos2><SelStart2>7225</SelStart2><SelEnd2>7225</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>13</YPos2><SelStart2>601</SelStart2><SelEnd2>601</SelEnd2></Tab><ActiveTab>14</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\StdPeriph\inc\stm32f4xx_syscfg.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>73</YPos2><SelStart2>3523</SelStart2><SelEnd2>3523</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\board_config.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>839</SelStart2><SelEnd2>839</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>192</YPos2><SelStart2>20833</SelStart2><SelEnd2>20837</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-03300BC8><key>iaridepm.enu1</key></Toolbar-03300BC8></Sizes></Row0><Row1><Sizes><Toolbar-1514DA60><key>debuggergui.enu1</key></Toolbar-1514DA60></Sizes></Row1></Top><Left><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>682</Bottom><Right>90</Right><x>-2</x><y>-2</y><xscreen>135</xscreen><yscreen>248</yscreen><sizeHorzCX>70313</sizeHorzCX><sizeHorzCY>248746</sizeHorzCY><sizeVertCX>47917</sizeVertCX><sizeVertCY>686058</sizeVertCY></Rect></Wnd5></Sizes></Row0></Left><Right><Row0><Sizes><Wnd6><Rect><Top>-2</Top><Left>-2</Left><Bottom>682</Bottom><Right>518</Right><x>-2</x><y>-2</y><xscreen>135</xscreen><yscreen>248</yscreen><sizeHorzCX>70313</sizeHorzCX><sizeHorzCY>248746</sizeHorzCY><sizeVertCX>270833</sizeVertCX><sizeVertCY>686058</sizeVertCY></Rect></Wnd6></Sizes></Row0><Row1><Sizes><Wnd7><Rect><Top>-2</Top><Left>516</Left><Bottom>682</Bottom><Right>626</Right><x>516</x><y>-2</y><xscreen>100</xscreen><yscreen>197</yscreen><sizeHorzCX>52083</sizeHorzCX><sizeHorzCY>197593</sizeHorzCY><sizeVertCX>57292</sizeVertCX><sizeVertCY>686058</sizeVertCY></Rect></Wnd7></Sizes></Row1></Right><Bottom><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>246</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>248</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>248746</sizeHorzCY><sizeVertCX>70313</sizeVertCX><sizeVertCY>248746</sizeVertCY></Rect></Wnd4></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
